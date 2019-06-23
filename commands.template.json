@@ -1,0 +1,16 @@
+{
+    "[name of list commands]": [
+        {
+            "name": "name of first command",
+            "command": "first command",
+            "directory": "directory where to run command",
+            "timeout": 0
+        },
+        {
+            "name": "name of second command",
+            "command": "second command",
+            "directory": "directory where to run command",
+            "timeout": 0
+        }
+    ]
+}
